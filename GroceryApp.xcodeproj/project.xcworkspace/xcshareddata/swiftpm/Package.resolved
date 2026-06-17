@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "groceryappshareddto",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/azamsharp/GroceryAppSharedDTO.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "5a24ae3785e0bc886b63ce8bec72a18c8ad1a626"
+      }
+    }
+  ],
+  "version" : 2
+}
